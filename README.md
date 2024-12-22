@@ -92,5 +92,6 @@ Having said all of that, if you're interested in a subscription, please check ou
 </div>
 
 * * *
-
+<!-- Test GH Workflow for THM Badge Updates -->
+![tryhackme stats](https://raw.githubusercontent.com/<SET_USERNAME_HERE>/<SET_USERNAME_HERE>/master/assets/thm_propic.png)
 
