@@ -8,13 +8,27 @@
 
 I am a...
 
-Cyber Security Enthusiast, student and aspiring professional!
+Cyber Security Enthusiast, student and aspiring professional
 
-- I'm currently studying many things... 
-- I love learning, and learning, and learning...
-- I am working on other things...
+- I'm currently building proficiency in python, bash, and others... 
+- I love digging, investigating, finding and learning...
+- I am also working on other things...
+- I enjoy rabbit holes and expanding on odd thoughts and curiosities...
 
 * * *
+
+<!-- Cool section from some other readme deut-erium -->
+
+<details>
+<summary> <b>I love learning via various platforms, including TryHackMe, KC7, CyberSkyline, SANS and many others</b> <i>(click to expand!)</i> </summary>
+<br>
+Here are few of my activities
+<ul>
+ <li> I try to keep active with challenge <a href="https://github.com/n3lbits/">writeups</a></li>
+ <li> I am currently working on a ctf <a href="https://github.com/n3lbits">COMING SOON</a></li>
+ <li> I am very active on <a href="https://tryhackme.com/p/n3lbits">TryHackMe</a></li>
+</ul>
+</details>
 
 <!-- TryHackMe Profile and Badges -->
 
@@ -22,7 +36,7 @@ Cyber Security Enthusiast, student and aspiring professional!
   
 ### TryHackMe Profile and Badges
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/nic0l0cin.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/n3lbits.png" alt="Your Image Badge" />
   
 </div>
 <div align="center">
