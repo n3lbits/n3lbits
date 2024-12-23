@@ -11,16 +11,17 @@ I am a...
 Cyber Security Enthusiast, student and aspiring professional
 
 - I'm currently building proficiency in python, bash, and others... 
-- I love digging, investigating, finding and learning...
+- I love digging, investigating, finding things and learning...
 - I am also working on other things...
 - I enjoy rabbit holes and expanding on odd thoughts and curiosities...
 
+<!-- Social Media -->
 * * *
 
 <!-- Cool section from some other readme deut-erium -->
 
 <details>
-<summary> <b>I love learning via various platforms, including TryHackMe, KC7, CyberSkyline, SANS and many others</b> <i>(click to expand!)</i> </summary>
+<summary> <b>I love learning via various platforms, including TryHackMe, KC7, CyberSkyline, SANS and many others...</b> <i>(expand!)</i> </summary>
 <br>
 Here are few of my activities
 <ul>
@@ -28,6 +29,10 @@ Here are few of my activities
  <li> I am currently working on a ctf <a href="https://github.com/n3lbits">COMING SOON</a></li>
  <li> I am very active on <a href="https://tryhackme.com/p/n3lbits">TryHackMe</a></li>
 </ul>
+
+<!-- Social Media -->
+    
+  </a>
 </details>
 
 <!-- TryHackMe Profile and Badges -->
@@ -92,5 +97,11 @@ Having said all of that, if you're interested in a subscription, please check ou
 </div>
 
 * * *
+
+<!-- ETC -->
+<div align="center">
+<img src="https://img.shields.io/badge/POWERED_BY-INTROVERT_ENERGY-880975?style=for-the-badge&labelColor=26222c" alt="selective"/>
+</div>
+
 <!-- Test GH Workflow for THM Badge Updates -->
-![tryhackme stats](https://raw.githubusercontent.com/n3lbits/n3lbits/main/assets/thm_propic.png)
+
