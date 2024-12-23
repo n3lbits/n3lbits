@@ -24,7 +24,7 @@ Cyber Security Enthusiast, student and aspiring professional
 <br>
 Here are few of my activities
 <ul>
- <li> I try to keep active with challenge <a href="https://github.com/n3lbits/">writeups</a></li>
+ <li> I try to keep active with challenge <a href="https://github.com/n3lbits/TryHackMe-WriteUps">writeups</a></li>
  <li> I am currently working on a ctf <a href="https://github.com/n3lbits">COMING SOON</a></li>
  <li> I am very active on <a href="https://tryhackme.com/p/n3lbits">TryHackMe</a></li>
 </ul>
@@ -36,7 +36,7 @@ Here are few of my activities
   
 ### TryHackMe Profile and Badges
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/n3lbits.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/n3lbits.png" alt="n3lbits" />
   
 </div>
 <div align="center">
@@ -93,5 +93,4 @@ Having said all of that, if you're interested in a subscription, please check ou
 
 * * *
 <!-- Test GH Workflow for THM Badge Updates -->
-[![n3lbits' tryhackme stats](https://raw.githubusercontent.com/n3lbits/n3lbits/main/assets/thm_propic.png)][tryhackme]
 
