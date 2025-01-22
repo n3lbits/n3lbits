@@ -106,7 +106,7 @@ Having said all of that, if you're interested in a subscription, please check ou
 ## 🛠️ TOOLS I'm Working with and Learning
 <details>
 <summary>
- I guess I'll drop some of these <i>(all the smart kids are doing it!)</i></summary>
+ I guess I'll drop some of these <i>(some of the things, because!)</i></summary>
  
 <h3>Security Related: Platforms</h3>
 <a href="#"><img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white"></a>
@@ -114,16 +114,19 @@ Having said all of that, if you're interested in a subscription, please check ou
  <a href="#"><img alt="PortSwigger Academy" src="https://img.shields.io/badge/PortSwigger-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"></a>
  <a href="#"><img alt="KC7" src="https://img.shields.io/badge/KC7-FF681a?style=for-the-badge&logo=kc7&logoColor=white"></a>
 
- <h3>Frameworks and Libraries</h3>
+
+ <h3>Frameworks, Platforms and Libraries</h3>
  <p>
+  <a href="#"><img alt="Astro" src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white"></a>
   <a href="#"><img alt="Hugo" src="https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white"></a>
   <a href="#"><img alt="Zola" src="https://img.shields.io/badge/-Zola-000000?style=for-the-badge&logo=zola&logoColor=white"></a>
+   <a href="#"><img alt="p5js" src="https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF"></a>
  </p>
  <h3>Databases and Cloud</h3>
   <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="#"><img alt="KQL" src="https://img.shields.io/badge/KQL-00f.svg?style=for-the-badge&logo=kql&logoColor=white"></a>
   <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-010101.svg?style=for-the-badge&logo=amazon&logoColor=%23FF9900"></a>
- <h3>Software and Tools</h3>
+ <h3>Software and Tools, IDE's and Editors</h3>
  <p>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=flat-square&logo=git&logoColor=white"></a>
@@ -131,6 +134,8 @@ Having said all of that, if you're interested in a subscription, please check ou
   <a href="#"><img alt="Libre Office" src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white"></a>
   <a href="#"><img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white"></a>
   <a href="#"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"></a>
+   <a href="#"><img alt="CodePen" src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black"></a>
+   <a href="#"><img alt="p5js Editor" src="https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF"></a>
  </p>
  <!-- Programming Languages 
  <h3>Programming Languages</h3>
