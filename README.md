@@ -137,6 +137,11 @@ Having said all of that, if you're interested in a subscription, please check ou
    <a href="#"><img alt="CodePen" src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black"></a>
    <a href="#"><img alt="p5js Editor" src="https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF"></a>
  </p>
+ <h3>Education, Training and other Learning Resources</h3>
+ <a href "#"><img alt="freeCodeCamp" src="https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff"></a>
+ <a href "#"><img alt="W3Schools" src="https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff"></a>
+ <a href "#"><img alt="MDN Web Docs" src="https://img.shields.io/badge/MDN%20Web%20Docs-000?logo=mdnwebdocs&logoColor=fff"></a>
+ 
  <!-- Programming Languages 
  <h3>Programming Languages</h3>
  <p>
