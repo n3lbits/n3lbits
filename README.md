@@ -33,8 +33,7 @@ I'm actively learning cybersecurity and related tools, concepts and methodologie
 <!-- TryHackMe Profile and Badges -->
 
 <div>
- 
-<img src="https://tryhackme-badges.s3.amazonaws.com/n3lbits.png" width="250" alt="n3lbits" />
+ <img src="https://tryhackme-badges.s3.amazonaws.com/n3lbits.png" width="250" alt="nelbits" />
 
 <details>
  <summary> <b>Here are a few of the badges I've earned on TryHackMe...</b> <i>(click and see!)</i></summary>
