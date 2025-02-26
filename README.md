@@ -33,7 +33,7 @@ I'm actively learning cybersecurity and related tools, concepts and methodologie
 <!-- TryHackMe Profile and Badges -->
 
 <div>
- <img src="https://tryhackme-badges.s3.amazonaws.com/n3lbits.png" width="250" alt="nelbits" />
+ <img src="https://tryhackme-badges.s3.amazonaws.com/n3lbits.png" width="255" alt="nelbits"/>
 
 <details>
  <summary> <b>Here are a few of the badges I've earned on TryHackMe...</b> <i>(click and see!)</i></summary>
@@ -51,6 +51,7 @@ I'm actively learning cybersecurity and related tools, concepts and methodologie
   <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/hash-cracker"><img title="Hash Cracker" alt="TryHackMe badge 14" src="https://tryhackme.com/img/badges/hashcracker.svg" width="55"></a>
  <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/metasploitable"><img title="Metasploitable" alt="TryHackMe badge 16" src="https://tryhackme.com/img/badges/metasploit.svg" width="55"></a>
   </div>
+  
 <div align="center">
   <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/linux-privesc"><img title="Linux PrivEsc" alt="TryHackMe badge 13" src="https://tryhackme.com/img/badges/linuxprivesc.svg" width="55"></a>
   <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/blue"><img title="Blue" alt="TryHackMe badge 17" src="https://tryhackme.com/img/badges/blue.svg" width="55"></a>
@@ -62,6 +63,15 @@ I'm actively learning cybersecurity and related tools, concepts and methodologie
  <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/logging-legend"><img title="Logging Legend" alt="TryHackMe badge 26" src="https://tryhackme.com/img/badges/loganalysis.svg" width="55"></a>
  <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/malware-analysis"><img title="Malware Analysis" alt="TryHackMe badge 27" src="https://tryhackme.com/img/badges/malwareanalysis.svg" width="55"></a>
 </div>
+
+<div align="center">
+ <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/pentester-tools"><img title="Pentesting Tools" alt="TryHackMe badge 28" src="https://assets.tryhackme.com/img/badges/pentestingtools_badge.svg" width="55"></a>
+   <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/the-best-responder"><img title="Incident Response" alt="TryHackMe badge 29" src="https://assets.tryhackme.com/img/badges/incidentresponse.svg" width="55"></a>
+    <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/friday-fixer"><img title="Cyber Threat Intelligence Blue" alt="TryHackMe badge 30" src="https://assets.tryhackme.com/img/badges/cyberthreatintellegenceblue.svg" width="55"></a>
+  <a target="_blank" href="https://tryhackme.com/n3lbits/badges/sword-apprentice"><img title="Sword Apprentice" alt="TryHackMe badge 31" src="https://assets.tryhackme.com/img/badges/swordapprentice.svg" width="55"></a>
+  <a target="_blank" href="https://tryhackme.com/n3lbits/badges/cyber-ready"><img title="Career Ready" alt="TryHackMe badge 32" src="https://assets.tryhackme.com/img/badges/careerready.svg" width="55"></a>
+  <a target="_blank" href="https://tryhackme.com/n3lbits/badges/shieldapprentice"><img title="Shield Apprentice" alt="TryHackMe badge 33" src="https://assets.tryhackme.com/img/badges/shieldapprentice.svg" width="55"></a>
+  <a target="_blank" href="https://tryhackme.com/n3lbits/badges/adversary"><img title="ADversary" alt="TryHackMe badge 34" src="https://assets.tryhackme.com/img/badges/attackingad.svg" width="55"></a>
 <div align="center">
  <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/7-day-streak"><img title="7 Day Streak" alt="TryHackMe badge 2" src="https://tryhackme.com/img/badges/streak7.svg" width="55"></a>
   <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/30-day-streak"><img title="30 Day Streak" alt="TryHackMe badge 6" src="https://tryhackme.com/img/badges/streak30.svg" width="55"></a>
@@ -69,6 +79,8 @@ I'm actively learning cybersecurity and related tools, concepts and methodologie
   <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/180-day-streak"><img title="180 Day Streak" alt="TryHackMe badge 15" src="https://tryhackme.com/img/badges/streak180.svg" width="55"></a>
   <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/365-day-streak"><img title="365 Day Streak" alt="TryHackMe badge 21" src="https://tryhackme.com/img/badges/streak365.svg" width="55"></a>
   <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/500-day-streak"><img title="500 Day Streak" alt="TryHackMe badge 23" src="https://tryhackme.com/img/badges/streak500.svg" width="55"></a>
+  <a target="_blank" href="https://tryhackme.com/n3lbits/badges/750-day-streak"><img title="750 Day Streak" alt="TryHackMe badge 33" src="https://assets.tryhackme.com/img/badges/streak750.svg" width="55"></a>
+  
   
 <div align="center">
 
