@@ -102,12 +102,15 @@ Having said all of that, if you're interested in a subscription, please check ou
  ## What Else I'm Working on:
 
  Currently self learning pretty much everything. Lately my focus has been on:
- 
- - Developing a static site to serve as a personal blog
+
+ - CTFs
+ - Trying to hack my way into a job
+ - Working on my personal site
  - Trying to expand on my very simple home lab with zero budget
  - Watching bad guys attack my honeypot and investigate source ips, file uploads, etc, primarily using Virus Total
- - Learning to set up Elastic Stack (at minimal to no cost) to ingest logs from my honeypot which is hosted on AWS (free tier)
- - Setting up a Raspberry Pi to serve as an additional honeypot (what? I love honey)
+ - Learning to ingest logs from my honeypot which is hosted on AWS (free tier)
+ - Setting up a Raspberry Pi to serve as an additional honeypot
+ - I'm really starting to love javascript
  - Other things, many other things...
 
 </div>
