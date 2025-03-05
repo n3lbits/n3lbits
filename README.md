@@ -22,7 +22,7 @@ Cyber Security Enthusiast, student and aspiring professional
 I'm actively learning cybersecurity and related tools, concepts and methodologies via various platforms, primarily TryHackMe but also others...
 
 <details>
-<summary>Click here to check out some of these activities! NOTE: UNDER <i>perpetual</i> CONSTRUCTION <i>(like a New Jersey road project)</i></summary>
+<summary>Click here to check out some of these activities! NOTE: UNDER CONSTRUCTION <i>as I build out my site...</i></summary>
 <ul>
  <li> Trying keep active with challenge <a href="https://github.com/n3lbits/TryHackMe-WriteUps">writeups</a></li>
  <li> Currently working on creating a room <a href="https://github.com/n3lbits">COMING SOON</a></li>
@@ -101,7 +101,7 @@ Having said all of that, if you're interested in a subscription, please check ou
  
  ## What Else I'm Working on:
 
- Currently self learning pretty much everything. Lately my focus has been on:
+ Lately my focus has been on:
 
  - CTFs
  - Trying to hack my way into a job
