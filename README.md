@@ -36,7 +36,7 @@ I'm actively learning cybersecurity and related tools, concepts and methodologie
  <img src="https://tryhackme-badges.s3.amazonaws.com/n3lbits.png" width="255" alt="nelbits"/>
 
 <details>
- <summary> <b>Here are a few of the badges I've earned on TryHackMe...</b> <i>(click and see!)</i></summary>
+ <summary> <b>Here are a few of the badges I've earned on TryHackMe...</b> <i>(click)</i></summary>
 
  <div align="center">
   <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/terminaled"><img title="cat linux.txt" alt="TryHackMe badge 1" src="https://tryhackme.com/img/badges/linux.svg" width="55"></a>
@@ -104,14 +104,12 @@ Having said all of that, if you're interested in a subscription, please check ou
  Lately my focus has been on:
 
  - CTFs
- - Trying to hack my way into a job
+ - Skill building
  - Working on my personal site
- - Trying to expand on my very simple home lab with zero budget
- - Watching bad guys attack my honeypot and investigate source ips, file uploads, etc, primarily using Virus Total
- - Learning to ingest logs from my honeypot which is hosted on AWS (free tier)
+ - Expanding my very simple home lab
+ - Watching my honeypot
  - Setting up a Raspberry Pi to serve as an additional honeypot
- - I'm really starting to love javascript
- - Other things, many other things...
+ - Many other things...
 
 </div>
 
@@ -120,7 +118,7 @@ Having said all of that, if you're interested in a subscription, please check ou
 ## 🛠️ TOOLS I'm Working with and Learning
 <details>
 <summary>
- I guess I'll drop some of these <i>(some of the things, because!)</i></summary>
+<i>(Some of the things)</i></summary>
  
 <h3>Security Related: Platforms</h3>
 <a href="#"><img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white"></a>
@@ -173,6 +171,8 @@ Having said all of that, if you're interested in a subscription, please check ou
 
 * * *
 <!-- Github Activities -->
+
+ 
 ## GitHub Stats
 
 
@@ -189,12 +189,12 @@ Having said all of that, if you're interested in a subscription, please check ou
   <img alt="Snake animation light mode" src="https://raw.githubusercontent.com/ne1atonin/ne1atonin/main/.github/images/github-contribution-grid-snake.svg#gh-light-mode-only"/>
 </div>
 
-* * *
+
 
 <!-- ETC -->
 <div align="center">
-<img src="https://img.shields.io/badge/POWERED_BY-INTROVERT_ENERGY-880975?style=for-the-badge&labelColor=26222c" alt="selective"/>
-</div>
+<img src="https://img.shields.io/badge/POWERED_BY-INTROVERT_ENERGY-880975?style=for-the-badge&labelColor=26222c" alt="selective"/></div>
+<div align="center"><em>...and boredom...</em></div>
 
 <!-- Test GH Workflow for THM Badge Updates -->
 
