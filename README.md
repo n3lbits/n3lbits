@@ -6,23 +6,15 @@
  
 * * *
 
-I am a...
-
-Cyber Security Enthusiast, student and aspiring professional
-
-- I'm currently building proficiency in python, bash, and others... 
+- I'm currently building proficiency in python 
 - I love digging, investigating, finding things and learning...
-- I am also working on other things...
-- I enjoy rabbit holes
 
 <!-- Social Media -->
 
 <!-- section inspired by some other readme deut-erium -->
 
-I'm actively learning cybersecurity and related tools, concepts and methodologies via various platforms, primarily TryHackMe but also others...
-
 <details>
-<summary>Click here to check out some of these activities! NOTE: UNDER CONSTRUCTION <i>as I build out my site...</i></summary>
+<summary>Click here to check out some of these activities! <i>building out...</i></summary>
 <ul>
  <li> Trying keep active with challenge <a href="https://github.com/n3lbits/TryHackMe-WriteUps">writeups</a></li>
  <li> Currently working on creating a room <a href="https://github.com/n3lbits">COMING SOON</a></li>
@@ -36,7 +28,7 @@ I'm actively learning cybersecurity and related tools, concepts and methodologie
  <img src="https://tryhackme-badges.s3.amazonaws.com/n3lbits.png" width="255" alt="nelbits"/>
 
 <details>
- <summary> <b>Here are a few of the badges I've earned on TryHackMe...</b> <i>(click)</i></summary>
+ <summary> <b>Here are a few of the badges I've earned on TryHackMe...</b></summary>
 
  <div align="center">
   <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/terminaled"><img title="cat linux.txt" alt="TryHackMe badge 1" src="https://tryhackme.com/img/badges/linux.svg" width="55"></a>
@@ -103,13 +95,9 @@ Having said all of that, if you're interested in a subscription, please check ou
 
  Lately my focus has been on:
 
- - CTFs
+ - Completing the BACS program at SANS Technology Institute
  - Skill building
- - Working on my personal site
- - Expanding my very simple home lab
- - Watching my honeypot
- - Setting up a Raspberry Pi to serve as an additional honeypot
- - Many other things...
+ - Pro Bono Investigative Work
 
 </div>
 
@@ -183,11 +171,11 @@ Having said all of that, if you're interested in a subscription, please check ou
 
 
 
-<!-- Snake animation -->
+<!-- Snake animation 
 <div align="center">
   <img alt="Snake animation dark mode" src="https://raw.githubusercontent.com/ne1atonin/ne1atonin/main/.github/images/github-snake-dark.svg#gh-dark-mode-only"/>
   <img alt="Snake animation light mode" src="https://raw.githubusercontent.com/ne1atonin/ne1atonin/main/.github/images/github-contribution-grid-snake.svg#gh-light-mode-only"/>
-</div>
+</div> -->
 
 
 
