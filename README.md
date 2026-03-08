@@ -138,14 +138,14 @@
 <!-- Github Activities -->
 
 
-## GitHub Stats
+<!-- broken ## GitHub Stats
 
 
 ![n3lbits' GitHub stats](https://github-readme-stats.vercel.app/api?username=n3lbits&layout=compact&show_icons=true&hide=stars&hide_border=true&theme=tokyonight)
 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n3lbits&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/n3lbits/github-readme-stats)
-
+-->
 
 
 <!-- Snake animation 
