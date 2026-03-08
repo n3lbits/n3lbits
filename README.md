@@ -6,31 +6,34 @@
  
 * * *
 
-- I'm currently building proficiency in python 
-- I love digging, investigating, finding things and learning...
 
 <!-- Social Media -->
 
 <!-- section inspired by some other readme deut-erium -->
 
-<details>
-<summary>Click here to check out some of these activities! <i>building out...</i></summary>
+
+  <div>
+ 
+ ## What I'm Working on:
+
+ Lately my focus has been on Completing the BACS program at SANS Technology Institute, currently studying for GCIA and completing the internship with the Internet Storm Center. I'm excited to set up the physical honeypot and record the process!
+
+ Also:
+ - Continuous skill building
+ - Pro Bono Investigative and OSINT Work
+ - Very active on <a href="https://tryhackme.com/r/p/n3lbits">TryHackMe.</a> <i>See below</i></li>
+
+
+<details><summary>THM activities</summary>
 <ul>
- <li> Trying keep active with challenge <a href="https://github.com/n3lbits/TryHackMe-WriteUps">writeups</a></li>
- <li> Currently working on creating a room <a href="https://github.com/n3lbits">COMING SOON</a></li>
- <li> Super active on <a href="https://tryhackme.com/r/p/n3lbits">TryHackMe.</a> <i>See below!</i></li> 
+ <li> Falling behind on challenge <a href="https://github.com/n3lbits/TryHackMe-WriteUps">writeups</a></li>
+ <!-- <li> Currently working on creating a room <a href="https://github.com/n3lbits">COMING SOON</a></li> tbc... -->
+ <!-- TryHackMe Profile and Badges -->
+ <li> Profile (static image) and <a href= https://tryhackme.com/badges>Badges</a></li>
+<img src=https://tryhackme-badges.s3.amazonaws.com/n3lbits.png?update=2>
 </ul>
-</details>
 
-<!-- TryHackMe Profile and Badges -->
-
-<div>
- <img src="https://tryhackme-badges.s3.amazonaws.com/n3lbits.png" width="255" alt="nelbits"/>
-
-<details>
- <summary> <b>Here are a few of the badges I've earned on TryHackMe...</b></summary>
-
- <div align="center">
+<!--broken <div align="center">
   <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/terminaled"><img title="cat linux.txt" alt="TryHackMe badge 1" src="https://tryhackme.com/img/badges/linux.svg" width="55"></a>
   <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/network-fundamentals"><img title="Networking Nerd" alt="TryHackMe badge 3" src="https://tryhackme.com/img/badges/networkfundamentals.svg" width="55"></a>
   <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/web-fund"><img title="Webbed" alt="TryHackMe badge 4" src="https://tryhackme.com/img/badges/webbed.svg" width="55"></a>
@@ -43,7 +46,6 @@
   <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/hash-cracker"><img title="Hash Cracker" alt="TryHackMe badge 14" src="https://tryhackme.com/img/badges/hashcracker.svg" width="55"></a>
  <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/metasploitable"><img title="Metasploitable" alt="TryHackMe badge 16" src="https://tryhackme.com/img/badges/metasploit.svg" width="55"></a>
   </div>
-  
 <div align="center">
   <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/linux-privesc"><img title="Linux PrivEsc" alt="TryHackMe badge 13" src="https://tryhackme.com/img/badges/linuxprivesc.svg" width="55"></a>
   <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/blue"><img title="Blue" alt="TryHackMe badge 17" src="https://tryhackme.com/img/badges/blue.svg" width="55"></a>
@@ -55,7 +57,6 @@
  <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/logging-legend"><img title="Logging Legend" alt="TryHackMe badge 26" src="https://tryhackme.com/img/badges/loganalysis.svg" width="55"></a>
  <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/malware-analysis"><img title="Malware Analysis" alt="TryHackMe badge 27" src="https://tryhackme.com/img/badges/malwareanalysis.svg" width="55"></a>
 </div>
-
 <div align="center">
  <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/pentester-tools"><img title="Pentesting Tools" alt="TryHackMe badge 28" src="https://assets.tryhackme.com/img/badges/pentestingtools_badge.svg" width="55"></a>
    <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/the-best-responder"><img title="Incident Response" alt="TryHackMe badge 29" src="https://assets.tryhackme.com/img/badges/incidentresponse.svg" width="55"></a>
@@ -72,37 +73,15 @@
   <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/365-day-streak"><img title="365 Day Streak" alt="TryHackMe badge 21" src="https://tryhackme.com/img/badges/streak365.svg" width="55"></a>
   <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/500-day-streak"><img title="500 Day Streak" alt="TryHackMe badge 23" src="https://tryhackme.com/img/badges/streak500.svg" width="55"></a>
   <a target="_blank" href="https://tryhackme.com/n3lbits/badges/750-day-streak"><img title="750 Day Streak" alt="TryHackMe badge 33" src="https://assets.tryhackme.com/img/badges/streak750.svg" width="55"></a>
-  
-  
-<div align="center">
-
-
-TryHackMe has an ample offering of free rooms to practice and build up that muscle memory. While the free rooms are great, it's nice to have extra time to work through some of the more challenging, progressive rooms. Especially on those days when your brain is working, and you feel good working through a room.
-
-Having said all of that, if you're interested in a subscription, please check out the link below for a $5 credit towards your premium access. Student discounts are available as well.
-
-[TryHackMe Referral Link](https://tryhackme.com/signup?referrer=62699f55803f010054892aa0)
-
 </div>
-</div>
+   -->
 </details>
 
-* * *
-
-<div>
- 
- ## What Else I'm Working on:
-
- Lately my focus has been on:
-
- - Completing the BACS program at SANS Technology Institute
- - Skill building
- - Pro Bono Investigative Work
-
+  
 </div>
 
 * * *
-<!-- Favorite Tools -->
+<!-- Favorite Tools 
 ## 🛠️ TOOLS I'm Working with and Learning
 <details>
 <summary>
@@ -154,13 +133,11 @@ Having said all of that, if you're interested in a subscription, please check ou
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?style=flat-square&logo=python&logoColor=yellow"></a>
   <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?style=flat-square&logo=database&logoColor=white"></a>
  </p>
- -->
-</details>
 
-* * *
+</details>  -->
 <!-- Github Activities -->
 
- 
+
 ## GitHub Stats
 
 
@@ -181,8 +158,7 @@ Having said all of that, if you're interested in a subscription, please check ou
 
 <!-- ETC -->
 <div align="center">
-<img src="https://img.shields.io/badge/POWERED_BY-INTROVERT_ENERGY-880975?style=for-the-badge&labelColor=26222c" alt="selective"/></div>
-<div align="center"><em>...and boredom...</em></div>
+<img src="https://img.shields.io/badge/POWERED_BY-boredom-880975?style=for-the-badge&labelColor=26222c" alt="selective"/></div>
 
 <!-- Test GH Workflow for THM Badge Updates -->
 
