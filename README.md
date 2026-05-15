@@ -16,19 +16,20 @@
  
  ## What I'm Working on:
 
- Lately my focus has been on Completing the BACS program at SANS Technology Institute, currently studying for GCIA and completing the internship with the Internet Storm Center. I'm excited to set up the physical honeypot and record the process!
+ Lately my focus has been on Completing the BACS program at SANS Technology Institute, <s>currently studying for</s> PASSED! GCIA, currently working through SEC497 - Practical OSINT (and loving it!) and completing the internship with the Internet Storm Center.
 
  Also:
  - Continuous skill building
  - Pro Bono Investigative and OSINT Work
- - Very active on <a href="https://tryhackme.com/r/p/n3lbits">TryHackMe.</a> <i>See below</i></li>
+ - Volunteer Activity
+ <!--Things have changed Very active on <a href="https://tryhackme.com/r/p/n3lbits">TryHackMe.</a> <i>See below</i></li>
 
 
 <details><summary>THM activities</summary>
 <ul>
  <li> Falling behind on challenge <a href="https://github.com/n3lbits/TryHackMe-WriteUps">writeups</a></li>
  <!-- <li> Currently working on creating a room <a href="https://github.com/n3lbits">COMING SOON</a></li> tbc... -->
- <!-- TryHackMe Profile and Badges -->
+ <!-- TryHackMe Profile and Badges
  <li> Profile (static image) and <a href= https://tryhackme.com/badges>Badges</a></li>
 <img src=https://tryhackme-badges.s3.amazonaws.com/n3lbits.png?update=2>
 </ul>
